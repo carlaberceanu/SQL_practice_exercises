@@ -64,7 +64,7 @@ The solutions included here are useful as reference material for anyone looking 
 ---
 
 ## Explore the Notebook
-All solutions are neatly organized and readable in the provided Jupyter Notebook [`SQL_Practice_Solutions.ipynb`](SQL_Practice_Solutions.ipynb). Feel free to explore, comment, or contact me if you have questions or suggestions.
+All solutions are neatly organized and readable in the provided Jupyter Notebook [`SQL_Practice_Exercises.ipynb`](SQL_Practice_Exercises.ipynb). Feel free to explore, comment, or contact me if you have questions or suggestions.
 
 ---
 
